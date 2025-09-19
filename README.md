@@ -1,1 +1,1 @@
-# codealpha_task-Calculater-
+# Codealpha-Calculator
